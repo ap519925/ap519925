@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ap519925" alt="ap519925" /></a> </p>
 
-- 🔭 I’m currently working at [IEEE](https://www.comsoc.org/conferences-events)
+- 🔭 I’m currently working at 
 
 - 👨‍💻 All of my projects are available at [https://mtanthony.com/](https://mtanthony.com/)
 
